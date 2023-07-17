@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @WFJ1987
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+---
+title: Nodetest
+emoji: 📊
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
 
-<!---
-WFJ1987/WFJ1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- {"name":"hg-node","type":"vless","server":"用户名-项目名.hf.space","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"用户名-项目名.hf.space","network":"ws","ws-opts":{"path":"/"},"client-fingerprint":"random"}
+
